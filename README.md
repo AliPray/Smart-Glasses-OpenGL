@@ -11,15 +11,6 @@ This project demonstrates how to render a simple 2D image of smart glasses using
 - **Coloring**: Different parts of the glasses are colored to distinguish various components.
 - **Basic Transformations**: Apply basic transformations such as translation and scaling to position and size the glasses appropriately.
 
-## Usage
-
-After building the project, run the executable to see the rendered image of the smart glasses:
-```sh
-./smart_glasses
-```
-
-A window should open displaying the 2D rendering of the smart glasses.
-
 ## Code Highlights
 
 - **Vertex Specification**: Vertices are specified using `glVertex2f` for 2D rendering.
@@ -42,11 +33,3 @@ To deepen your understanding of the concepts used in this project, consider expl
 - **OpenGL Tutorials**: Websites like [learnopengl.com](https://learnopengl.com/) offer tutorials ranging from basic to advanced OpenGL programming.
 
 By completing this project, you will have a solid foundation in basic OpenGL programming, which will serve as a stepping stone for more complex graphics projects.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, please create a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
